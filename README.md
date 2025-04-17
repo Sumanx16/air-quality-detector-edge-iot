@@ -114,14 +114,4 @@ http://localhost:5000
 
 ---
 
-## 🏫 Institution
 
-**Chandigarh University**  
-*Bachelor of Engineering – Computer Science (2025)*
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.  
-For more details, see the [LICENSE](LICENSE) file.
