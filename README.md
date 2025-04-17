@@ -17,6 +17,17 @@
 
 ---
 
+---
+
+## 🌐 Visit Website
+
+👉 [Click here to view the live Air Quality Dashboard](https://jazzy-pithivier-dc198f.netlify.app/)
+
+> ⚠️ *This is a sample link. Replace it with your actual deployed site if hosted on GitHub Pages, Netlify, Vercel, etc.*
+
+---
+
+
 ## 📌 Overview
 
 Air pollution is a major public health issue. Traditional monitoring systems suffer from high latency and lack granularity due to centralized data processing.
