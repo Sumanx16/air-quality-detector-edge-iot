@@ -113,5 +113,15 @@ http://localhost:5000
 | Prashant      | 22BCS16505   |
 
 ---
+## 🏫 Institution
 
+**Chandigarh University**  
+*Bachelor of Engineering – Computer Science (2025)*
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.  
+For more details, see the [LICENSE](LICENSE) file.
 
