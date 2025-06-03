@@ -93,14 +93,6 @@ http://localhost:5000
   - Real-time pollutant levels
   - Temperature vs AQI overlays
 
----
-
-## 🔭 Future Scope
-
-- 🤖 Integrate machine learning for pollution prediction.
-- 🔋 Develop solar-powered remote sensor nodes.
-- 🗺️ Expand deployment to city-wide or national levels.
-- 🔌 Support offline data syncing and caching.
 
 ---
 
