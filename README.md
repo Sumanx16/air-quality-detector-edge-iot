@@ -6,7 +6,6 @@
 [![IoT](https://img.shields.io/badge/IoT-enabled-blue.svg)](#)
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](#)
 
-> A real-time, low-latency air quality monitoring system leveraging edge computing to analyze and visualize pollution data locally using IoT sensors and microcontrollers.
 
 ---
 
