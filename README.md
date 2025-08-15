@@ -1,5 +1,4 @@
 
-# 🌫️ Air Quality Detector Using Edge Computing
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-RaspberryPi-orange.svg)](#)
